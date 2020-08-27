@@ -8,6 +8,8 @@ I've also been a longtime participant in work on Web standards: this includes pa
 
 </div>
 
+### Code hosted here
+
 The code I host in this github account (not counting forks of other repositories) falls into a few categories:
 
 Proposals for Web standards:
@@ -66,3 +68,12 @@ Other Mozilla-related repositories:
 
 Other code I've written:
 * [**sort-vcalendar**](https://github.com/dbaron/sort-vcalendar) - Sort a vCalendar file by the UID of the events
+
+### Code hosted elsewhere
+
+Most of the code I've written is not hosted in this GitHub account; it lives elsewhere.  This includes contributions to:
+* the [Gecko](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction) layout engine used in Firefox
+* CSS working group specifications hosted in [csswg-drafts](https://github.com/w3c/csswg-drafts/) and also a little bit in [fxtf-drafts](https://github.com/w3c/fxtf-drafts/) and [css-houdini-drafts](https://github.com/w3c/css-houdini-drafts/)
+* contributions to the W3C TAG [Web Platform Design Principles](https://w3ctag.github.io/design-principles/), [Design Reviews](https://github.com/w3ctag/design-reviews), and other repositories
+* contributions to Mozilla's [Specification Positions](https://mozilla.github.io/standards-positions/)
+* contributions to [Web Platform Tests](https://web-platform-tests.org/)
