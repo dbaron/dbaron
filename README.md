@@ -2,7 +2,11 @@ I was a software engineer at [Mozilla](https://www.mozilla.org) from 2003-2020, 
 
 I've also been a longtime participant in work on Web standards: this includes participation in the W3C's [CSS Working Group](https://wiki.csswg.org/), being an elected member of the W3C's [Technical Architecture Group](https://tag.w3.org/), longtime involvement at a technical and standards policy level in both the [W3C](https://www.w3.org/) and [WHATWG](https://whatwg.org/), and helping others at Mozilla interact with these standards bodies and with other companies participating in them. 
 
-[[Homepage](https://dbaron.org)] [[Twitter](https://twitter.com/davidbaron)] [[Linkedin](https://www.linkedin.com/in/ldavidbaron/)]
+<div align="center">
+
+[**Homepage**](https://dbaron.org) ● [**Twitter**](https://twitter.com/davidbaron) ● [**Linkedin**](https://www.linkedin.com/in/ldavidbaron/)
+
+</div>
 
 The code I have on github falls into a few categories:
 
