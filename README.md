@@ -36,6 +36,7 @@ Some mapping-related code I've written:
 * [**osm-satellite-scripts**](https://github.com/dbaron/osm-satellite-scripts) -  Scripts for processing satellite images for use in mapbox studio for tracing with OpenStreetMap iD editor
 * [**osm-area-diff**](https://github.com/dbaron/osm-area-diff) - Diff OpenStreetMap changes in a time period to help understand and revert vandalism
 * [**walk-maps**](https://github.com/dbaron/walk-maps) - A leaflet-based map of GPX traces of walks I've taken (without the private data)
+* [**backpacking-maps**](https://github.com/dbaron/backpacking-maps) - A leaflet-based map of GPX traces of backpacking trips I've taken
 * [**rail-network-quizzes**](https://github.com/dbaron/rail-network-quizzes) - code to use OpenStreetMap data to build rail network quizzes for JetPunk
 
 Some other simple Web applications I've written:
