@@ -79,5 +79,5 @@ Most of the code I've written is not hosted in this GitHub account; it lives els
 * [contributions](https://chromium-review.googlesource.com/q/owner:dbaron%2540chromium.org+is:merged) to the [Chromium](https://www.chromium.org/) project, the open source project behind the [Google Chrome](https://www.google.com/chrome) browser
 * CSS working group specifications hosted in [csswg-drafts](https://github.com/w3c/csswg-drafts/) and also a little bit in [fxtf-drafts](https://github.com/w3c/fxtf-drafts/) and [css-houdini-drafts](https://github.com/w3c/css-houdini-drafts/)
 * contributions to the W3C TAG [Web Platform Design Principles](https://w3ctag.github.io/design-principles/), [Design Reviews](https://github.com/w3ctag/design-reviews), and other repositories
-* contributions to Mozilla's [Specification Positions](https://mozilla.github.io/standards-positions/)
-* contributions to [Web Platform Tests](https://web-platform-tests.org/)
+* [contributions](https://github.com/mozilla/standards-positions/commits?author=dbaron) to Mozilla's [Specification Positions](https://mozilla.github.io/standards-positions/)
+* [contributions](https://github.com/web-platform-tests/wpt/commits?author=dbaron) to [Web Platform Tests](https://web-platform-tests.org/)
