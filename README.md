@@ -75,7 +75,8 @@ Other code I've written:
 ### Code hosted elsewhere
 
 Most of the code I've written is not hosted in this GitHub account; it lives elsewhere.  This includes contributions to:
-* the [Gecko](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction) layout engine used in Firefox
+* the [Gecko](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction) layout engine used in Firefox ([1998-2003](https://github.com/mozilla/mozilla-history/commits?author=dbaron%25fas.harvard.edu), [2003-2011](https://github.com/mozilla/mozilla-history/commits?author=dbaron), [2008-2020](https://github.com/mozilla/gecko-dev/commits?author=dbaron))
+* [contributions](https://chromium-review.googlesource.com/q/owner:dbaron%2540chromium.org+is:merged) to the [Chromium](https://www.chromium.org/) project, the open source project behind the [Google Chrome](https://www.google.com/chrome) browser
 * CSS working group specifications hosted in [csswg-drafts](https://github.com/w3c/csswg-drafts/) and also a little bit in [fxtf-drafts](https://github.com/w3c/fxtf-drafts/) and [css-houdini-drafts](https://github.com/w3c/css-houdini-drafts/)
 * contributions to the W3C TAG [Web Platform Design Principles](https://w3ctag.github.io/design-principles/), [Design Reviews](https://github.com/w3ctag/design-reviews), and other repositories
 * contributions to Mozilla's [Specification Positions](https://mozilla.github.io/standards-positions/)
