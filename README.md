@@ -6,7 +6,7 @@ I've also been a longtime participant in work on Web standards: this includes pa
 
 <div align="center">
 
-[**Homepage**](https://dbaron.org) ● [**Twitter**](https://twitter.com/davidbaron) ● [**Linkedin**](https://www.linkedin.com/in/ldavidbaron/)
+<strong><a rel="me" href="https://dbaron.org">Homepage</a></strong> ● <strong><a rel="me" href="https://w3c.social/@dbaron">Mastodon</a></strong> ● <strong><a rel="me" href="https://twitter.com/davidbaron">Twitter</a></strong> ● <strong><a rel="me" href="https://www.linkedin.com/in/ldavidbaron/">Linkedin</a></strong>
 
 </div>
 
